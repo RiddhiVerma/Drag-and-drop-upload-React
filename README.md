@@ -4,7 +4,7 @@ Using this widget user can upload file by drag and drop or by opening files fold
 # Create a react app
 Create React apps with no build configuration.
 
-* [Creating an App](#creating-an-app) – How to create a new app.
+* [Creating an App](#creating-an-app) – Please ensure you have node > 5 installed.<br>
 Create React App works on macOS, Windows, and Linux.<br>
 
 
